@@ -1,2 +1,0 @@
-#git commands
-1. git config core.editor "notepad++ -multiInst -nosession"	// changes default editor
