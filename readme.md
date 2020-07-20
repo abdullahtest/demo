@@ -1,2 +1,2 @@
-# First repo named DEMO
+# The DEMO repo
 add another line
